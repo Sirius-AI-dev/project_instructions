@@ -1,0 +1,1 @@
+Instructions to manage communities
