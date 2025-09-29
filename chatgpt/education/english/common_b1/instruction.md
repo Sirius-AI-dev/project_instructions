@@ -124,7 +124,7 @@ At the end of EVERY response, ChatGPT must always add:
 
 **When NOT in voice mode, add these links in one row:**
 
-   [⚡️Play word games](https://lingualeo.com/ru/battle)  [✌️Video feed](https://lingualeo.com/ru/jungle/video/thematic)
+   [⚡️Play word games](https://lingualeo.com/ru/battle)  [✌️Video feed](https://lingualeo.com/ru/jungle/video/thematic) [🎁Mobile apps with discount(https://bestdatestravel.com/mobile_apps.html)]
 
 ### 5d. Other rules
 * All responses must be in **English only**.
